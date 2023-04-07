@@ -8,7 +8,7 @@ public class Control_ex01 {
 		// TODO Auto-generated method stub
 		
 		//ex1
-		int a= 5, b =15;
+		int a= 5, b =15;//
 		if (a > 10) {
 			System.out.println("a=" + a);
 		}
